@@ -6,5 +6,6 @@ public class Exercise_01_01 {
 		System.out.println("Welcome to Java");
 		System.out.println("Welcome to Computer Science");
 		System.out.println("Programming is fun");
+		System.out.println("I'm fine");
 	}
 }
